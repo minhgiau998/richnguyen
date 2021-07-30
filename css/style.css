@@ -476,6 +476,22 @@ a:focus {
   padding-left: 10%;
 }
 
+.portfolio_section .portfolio_container .more {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #ffffff;
+  color: #2f2f2f;
+  border: 1.5px solid #ffffff;
+  border-radius: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+.portfolio_section .portfolio_container .more:hover {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+
 .logo_section .logo_container {
   -webkit-box-shadow: 0 0 35px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 0 0 35px 0 rgba(0, 0, 0, 0.15);
